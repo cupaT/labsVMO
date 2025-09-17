@@ -13,3 +13,4 @@ plt.scatter(x2, y2, color='red', marker='o', s=70)
 plt.xlim(0, 10)
 plt.ylim(0, 30)
 plt.show()
+#
